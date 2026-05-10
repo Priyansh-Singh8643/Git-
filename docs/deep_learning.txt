@@ -1,0 +1,31 @@
+1. What is Deep Learning?
+
+Deep Learning is a subset of Machine Learning (ML) that uses algorithms inspired by the structure and function of the human brain — known as artificial neural networks. These networks consist of multiple layers that automatically learn to extract features from raw data, enabling systems to perform complex tasks such as image recognition, speech understanding, and natural language processing without explicit programming.
+
+In essence, Machine Learning teaches computers to learn from data, while Deep Learning takes this a step further by letting the system automatically discover intricate patterns through deep neural architectures.
+
+2. Why “Deep”?
+
+The term deep refers to the number of layers in a neural network.
+
+A shallow network may have one or two hidden layers.
+
+A deep network may have dozens or even hundreds of layers.
+
+Each layer progressively extracts higher-level features from the input data — for example, in image recognition:
+
+Lower layers detect edges and colors.
+
+Middle layers detect shapes or textures.
+
+Higher layers identify objects or faces.
+
+3. Core Concepts
+
+Neurons and Layers: The basic processing units that transform input signals into outputs through mathematical operations.
+
+Activation Functions: Non-linear transformations (e.g., ReLU, Sigmoid) that allow networks to learn complex patterns.
+
+Loss Function: Measures the difference between predicted and actual outputs.
+
+Optimization (Backpropagation): The process of updating network weights to minimize loss, typically using algorithms like Gradient Descent.
